@@ -1,0 +1,50 @@
+{
+
+"founder": [
+    {
+        "key": "FId",
+        "type": "keyid",
+        "UIComponentTitle": "Founder"
+    }
+        ,{
+        "key": "Name",
+        "label": "Name",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+    ,{
+        "key": "Role",
+        "label": "Role",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+    ,{
+        "key": "Bio",
+        "label": "Bio",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+    ,{
+        "key": "ContactNumber",
+        "label": "ContactNumber",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+    ,{
+        "key": "LinkedInProfile",
+        "label": "LinkedInProfile",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+]
+}
